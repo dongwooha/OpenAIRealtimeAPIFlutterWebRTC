@@ -49,5 +49,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>WebRTCTest Camera Usage!</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>WebRTCTest Microphone Usage!</string>
 </dict>
 </plist>
